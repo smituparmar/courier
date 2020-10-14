@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node server",
     "server": "nodemon server"
-
   },
   "author": "Smit Parmar",
   "license": "MIT",
@@ -14,8 +13,12 @@
     "config": "^3.3.2",
     "express": "^4.17.1",
     "express-validator": "^6.6.1",
+    "fs": "0.0.1-security",
+    "install": "^0.13.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.9",
+    "multer": "^1.4.2",
+    "path": "^0.12.7",
     "request": "^2.88.2"
   },
   "devDependencies": {
