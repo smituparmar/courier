@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://guestUser:guestUser@cluster0.eu3qi.mongodb.net/Cluster0?retryWrites=true&w=majority",
+    "jwtsecret":"newsecretkey"
+}
